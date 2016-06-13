@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2D Background Assets/Example Scenes/Sky_Day_Mountains.unity
+  isLoaded: 1
+  isActive: 1
